@@ -1,15 +1,12 @@
 # Roadmap
 
-## Get it compile
+## Get to compile
 
-First task is to get it compile again without closed repositories, 
-as eveything is cluttered with MacOs / Cocoa code, remove / move that code
+First task is to get it to compile again without closed-source dependencies, as eveything is cluttered with Cocoa/MacOS code.
 
-### Provide substitution for VS-Editor-Api
+## Provide substitution for [Visual Studio Editor API](https://github.com/microsoft/vs-editor-api)
 
-As VS-Editor-Api is deeply integrated in the code, provide a VS-Editor-Api based on Xwt / Gtk.
-In the first step, this is not intended to be a WORKING VS-Editor-Api. It's just here to get MD compiling.
+As `vs-editor-api` is deeply integrated in the code, provide an implementation based on Xwt/Gtk.
 
-In a second step, there should be a discussion what concrete GUI-Framework is choosen as base for VS-Editor-Api
-
-
+- In the first step, this is not intended to be a working `vs-editor-api`. It's just here to get MD compiling.
+- In a second step, there should be a discussion what concrete GUI framework will be choosen as base for `vs-editor-api`.
