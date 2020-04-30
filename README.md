@@ -1,22 +1,15 @@
-# community
-for discussions and gathering community
+# dotdevelop community
 
-this is an effort to fork monodevelop
+This repo exists to track all bugs, issues, features requests, and status for the entire `dotdevelop` project.
 
-# goals
+`dotdevelop` is an effort to getting forward with MonoDevelop as an open-source IDE. Take a look on our [roadmap](roadmap.md).
 
-open source ide 
+# Goals
 
-running on upcomming .net 5.0
+- Be an open and reliable alternative to Visual Studio and Rider
+- Run on upcoming .NET 5.0
 
-# platforms
+# Target platforms
 
-Linux
-
-Windows
-
-# Roadmap
-
-[Roadmap](roadmap.md)
-
-
+- Linux
+- Windows
