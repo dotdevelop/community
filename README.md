@@ -2,7 +2,9 @@
 
 [![Discord](https://img.shields.io/discord/704812455863517334)](https://discord.gg/dBfyyHX)
 
-This repo exists to track all bugs, issues, features requests, and status for the entire `dotdevelop` project.
+This repo exists to track features requests and status for the entire `dotdevelop` project.
+
+For bugs and issues related to our MonoDevelop fork, please go [there](https://github.com/dotdevelop/dotdevelop/issues).
 
 `dotdevelop` is an effort to getting forward with MonoDevelop as an open-source IDE. Take a look on our [roadmap](roadmap.md).
 
