@@ -1,5 +1,6 @@
 # dotdevelop community
-![Discord](https://img.shields.io/discord/704812455863517334?label=discord&style=plastic)
+
+![Discord](https://img.shields.io/discord/704812455863517334)
 
 This repo exists to track all bugs, issues, features requests, and status for the entire `dotdevelop` project.
 
